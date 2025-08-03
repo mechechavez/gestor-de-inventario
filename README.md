@@ -344,22 +344,6 @@ npm test
 - [x] **ESLint rules** ajustadas para desarrollo
 - [x] **Estructura de archivos** limpia y organizada
 
-### 🚀 Próximas Mejoras
-- [ ] Tests unitarios completos
-- [ ] Documentación API con Swagger
-- [ ] Contenedores Docker para aplicación
-- [ ] CI/CD pipeline
-- [ ] Notificaciones en tiempo real
-- [ ] Módulo de reportes avanzados
-
-## 🤝 Contribución
-
-1. Fork el proyecto
-2. Crear feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push al branch (`git push origin feature/AmazingFeature`)
-5. Abrir Pull Request
-
 ### �️ Desarrollo Local
 
 ```bash
