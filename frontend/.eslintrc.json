@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/prefer-const": "off",
+    "prefer-const": "off",
+    "no-console": "off",
+    "react-hooks/exhaustive-deps": "off"
+  },
+  "env": {
+    "browser": true,
+    "es2020": true
+  }
+}
