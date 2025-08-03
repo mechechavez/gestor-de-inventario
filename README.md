@@ -377,10 +377,6 @@ cd backend && npm run dev &
 cd frontend && npm run dev
 ```
 
-## �📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
-
 ---
 
 ### 🏆 Proyecto Académico - Universidad Técnica de Manabí
@@ -392,4 +388,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - **Facultad:** Ciencias Informáticas  
 - **Materia:** Diseño de Sistemas Informáticos
 - **Tecnologías:** React, Node.js, MongoDB, Docker, TypeScript
-- **Estudiante:** Mercedes Carmen Chavez Hidalgo
+- **Integrantes:** Mercedes Carmen Chavez Hidalgo - Jaime David Cevallos Rivera - Fernando Guillermo Garay Delgado
