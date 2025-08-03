@@ -392,3 +392,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - **Facultad:** Ciencias Informáticas  
 - **Materia:** Diseño de Sistemas Informáticos
 - **Tecnologías:** React, Node.js, MongoDB, Docker, TypeScript
+- **Estudiante:** Mercedes Carmen Chavez Hidalgo
